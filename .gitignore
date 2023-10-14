@@ -1,3 +1,5 @@
 *.pdf
 Rules/
 *.DS_Store
+*.docx
+__pycache__
